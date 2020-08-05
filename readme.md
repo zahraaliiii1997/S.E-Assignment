@@ -4,6 +4,4 @@
 
 [paper2](./paper2/readme.md)
 
-[paper3](./paper3/readme.md)
-
 [paper4](./paper4/readme.md)
