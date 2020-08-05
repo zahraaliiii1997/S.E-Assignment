@@ -56,4 +56,3 @@ In addition, the dataset can be used for investigating the ecosystem of duplicat
 We provide a dataset of 10.6 million GitHub projects that are copies of others, and link each record with the project’s ultimate parent. The ultimate parents were derived from a ranking along six metrics. The related projects were calculated as the connected components of an 18.2 million node and 12 million edge denoised graph created by directing edges to ultimate parents. The graph was created by filtering out more than 30 hand-picked and 2.3 million pattern-matched clumping projects.
 
 An evaluation of our dataset against another created independently with different methods found a significant overlap, but also differences attributed to the operational definition of what projects are considered as related.
-
