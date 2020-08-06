@@ -15,7 +15,7 @@
 ***Dataset Creation***
 
 + First shared commits were grouped to a single “attractor” project, which was derived based on the geometric mean of six quality attributes:5 recency of the latest commit, as well as the number of stars, forks, commits, issues, and pull requests.
-+ To cover holes in the coverage of shared commits, we complemented the projects sharing commits table with projects related by GitHub project forks, after removing a set of hand-picked and heuristic-derived projects that mistakenly linked together unrelated clusters (Table blacklisted projects— 2 341 896 records—Listing 10).
++ To cover holes in the coverage of shared commits, we complemented the projects sharing commits table with projects related by GitHub project forks, after removing a set of hand-picked and heuristic-derived projects that mistakenly linked together unrelated clusters.
 + The final steps involved determining the size of each group, associating it with each project and its metrics, obtaining the mean metric for the selected projects, and associating with each group the project excelling in the metric.
 + We used a query utilizing the SQL window functions in order to group together shared commits without creating excessively large result sets.
 
