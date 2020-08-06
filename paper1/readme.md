@@ -61,7 +61,7 @@ The #dev channel received 267 messages and 87 mentions from 17 users, with an ov
 Qualitative Analysis Results:
  At the end of the Sprints, researchers interviewed all the twenty participants. From these follow-up interviews, they found that the high-level board was not used and appreciated by Management to the expected extent. They also asked them to rank the ten automation rule in descending order of usefulness. The results are reported in Table 5 aggregated per team and overall.
 
-![table 5](./paper1.png)
+![table 5](/paper1.png)
 
 The top three ranked rules are ready_to_test, start_implementation, and. Thanks to the plugin, 85% of the interviewees found their workflow to be improved, and the remaining found it unaffected by it.
 Also, all participants were recommended to set their preferences to direct messages, mentions & keywords not to miss any relevant notification.
