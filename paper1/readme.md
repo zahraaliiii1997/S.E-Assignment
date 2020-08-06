@@ -67,7 +67,7 @@ The top three ranked rules are ready_to_test, start_implementation, and. Thanks 
 Also, all participants were recommended to set their preferences to direct messages, mentions & keywords not to miss any relevant notification.
 
 ***Slack as a Central Hub of Communication:***
-
+ 
 Slack as the central hub for internal communication, while setting clear rules regarding other tools and channel usage. Slack fosters communication transparency. Thanks to the use of public channels for sharing team-relevant pieces of information, the new Slack configuration introduced helped to make communication at KSTS-It more ‘transparent. Overall, KSTS-It teams liked using Slack as a central hub of communication and used it mostly problem-solving.
 
 ***Jira Boards and Automation Rules***
@@ -84,7 +84,7 @@ A second limitation relates to potential bias in our data collection. Some data 
 In this paper, we reported on a case study conducted at KSTS-It, the Italian site of a large, distributed software company. We found out that, overall, KSTS-It accepted the restructured Slack workspace and the Jira automation rules, and reported more improvements in their communication and workflow.
 Finally, they are considering also bringing to Berlin some of the changes investigated at the Italian site.
 
-***_results:_*** 
+***_results:_***
 
 + The first change revealed that the teams of developers used and appreciated Slack differently with the QA team being the most favorable and that the use of channels is hindered by automatic notifications from development tools (e.g., Jenkins).
 + We report on a longitudinal case study conducted at the Italian site of a large software company to further our understanding of how development and communication tools can be improved to better support agile practices and collaboration.
