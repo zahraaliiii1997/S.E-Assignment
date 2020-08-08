@@ -44,7 +44,9 @@ To make sure the reached abstract state is fully tested for data loss, including
 + Data Loss Oracles
 
 Data loss problems do not always cause crashes. As anticipated in Section data loss revealing action, the basic DLD strategy is to collect the GUI state of the app before and after the execution of actions that may have triggered a data loss failure and compare the states to detect it.
-***figure 2***
+
+![figure 2](/paper3.jpg)
+
 Figure 2 shows the state information captured by the snapshot-based and the property-based oracles for a same GUI state of the OpenVPN app. The former oracle stores a screenshot of the app, as shown in Figure 2, while the latter oracle stores the properties of the views in Python dictionary format, as shown in Figure 2.
 More rigorously, the two oracle strategies collect and compare state information as follows.
 
